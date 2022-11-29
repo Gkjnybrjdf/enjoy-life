@@ -1,0 +1,6 @@
+[submodule "enjoy-life-backend"]
+	path = enjoy-life-backend
+	url = https://github.com/Gkjnybrjdf/enjoy-life-backend.git
+[submodule "enjoy-life-frontend"]
+	path = enjoy-life-frontend
+	url = https://github.com/Gkjnybrjdf/enjoy-life-frontend.git
